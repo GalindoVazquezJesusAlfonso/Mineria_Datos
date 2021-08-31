@@ -9,3 +9,5 @@ Grupo 002 Minería de Datos FCFM UANL
 [Tarea Equipo 10 - Bases de Datos](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Equipo_10-Ejercicio%20Base%20de%20Datos.pdf)
 
 [Primeros Ejercicios en Python](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Ej_Python_1941475.ipynb)
+
+[Práctica 1 - Limpieza de datos](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Ej_Limpieza_Equipo10.ipynb)
