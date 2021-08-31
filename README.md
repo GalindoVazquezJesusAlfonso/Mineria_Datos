@@ -11,3 +11,5 @@ Grupo 002 Minería de Datos FCFM UANL
 [Primeros Ejercicios en Python](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Ej_Python_1941475.ipynb)
 
 [Práctica 1 - Limpieza de datos](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Ej_Limpieza_Equipo10.ipynb)
+
+[Avance 1 PIA](https://github.com/JesusValGzz/Mineria_de_Datos/blob/main/Avance1_PIA_Equipo10.ipynb)
