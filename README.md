@@ -14,6 +14,8 @@ Grupo 002 Minería de Datos FCFM UANL
 
 [Avance 1 PIA](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Avance1_PIA_Equipo10.ipynb)
 
+## Fase II
+
 [Presentación Árboles de Decisión](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Presentacion_%C3%81rboles%20de%20Decisi%C3%B3n_Equipo10.pdf)
 
 - [Código de un ejemplo](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/C%C3%B3digo_%C3%81rboles%20de%20decisi%C3%B3n_Equipo%2010.ipynb)
