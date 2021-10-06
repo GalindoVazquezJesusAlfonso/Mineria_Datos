@@ -12,7 +12,7 @@ Grupo 002 Minería de Datos FCFM UANL
 
 [Práctica 1 - Limpieza de datos](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Ej_Limpieza_Equipo10.ipynb)
 
-[Avance 1 PIA](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Avance1_PIA_Equipo10.ipynb)
+[Avance I PIA](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Avance1_PIA_Equipo10.ipynb)
 
 ## Fase II
 
@@ -23,3 +23,5 @@ Grupo 002 Minería de Datos FCFM UANL
 - [Preguntas de interés](https://github.com/CruzLermaJorge/MineriaDatosJorge/blob/main/Preguntas_Arboles%20de%20decision_Eq%2310.pdf)
 
 [Práctica 2](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Visualizacion_Equipo10.ipynb)
+
+[Avance II PIA](https://github.com/CruzLermaJorge/MineriaDatosJorge/blob/main/AvancePIA_II_002_10.ipynb)
