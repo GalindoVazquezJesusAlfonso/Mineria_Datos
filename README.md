@@ -26,4 +26,7 @@ Grupo 002 Minería de Datos FCFM UANL
 
 [Avance II PIA](https://github.com/CruzLermaJorge/MineriaDatosJorge/blob/main/AvancePIA_II_002_10.ipynb)
 
+[Avance II PIA (corregido)](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/AvancePIA_II_002_10_(Corregido).ipynb)
+
 [Práctica - Técnicas de minería](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/T%C3%A9cnicaMiner%C3%ADa_Equipo10.ipynb)
+
