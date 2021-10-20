@@ -22,11 +22,14 @@ Grupo 002 Minería de Datos FCFM UANL
 
 - [Preguntas de interés](https://github.com/CruzLermaJorge/MineriaDatosJorge/blob/main/Preguntas_Arboles%20de%20decision_Eq%2310.pdf)
 
-[Práctica 2](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Visualizacion_Equipo10.ipynb)
+[Práctica 2 - Ejercicios de visualización en Python](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Visualizacion_Equipo10.ipynb)
 
 [Avance II PIA](https://github.com/CruzLermaJorge/MineriaDatosJorge/blob/main/AvancePIA_II_002_10.ipynb)
 
 [Avance II PIA (corregido)](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/AvancePIA_II_002_10_(Corregido).ipynb)
 
-[Práctica - Técnicas de minería](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/T%C3%A9cnicaMiner%C3%ADa_Equipo10.ipynb)
+[Práctica 3 - Ejercicio de base de datos con técnicas](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/T%C3%A9cnicaMiner%C3%ADa_Equipo10.ipynb)
 
+## Fase III
+
+[Notebook final PIA](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/PIA_002_Equipo10_Bitcoin.ipynb)
