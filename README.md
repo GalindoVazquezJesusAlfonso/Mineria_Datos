@@ -33,3 +33,5 @@ Grupo 002 Minería de Datos FCFM UANL
 ## Fase III
 
 [Notebook final PIA](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/PIA_002_Equipo10_Bitcoin.ipynb)
+
+[Póster PIA](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Poster_G002_Equipo10_Bitcoin.pdf)
